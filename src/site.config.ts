@@ -32,31 +32,14 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 		path: "/",
 	},
 	{
-		title: "Eat",
-		path: "/eat/",
+		title: "About",
+		path: "/about/",
 	},
 	{
-		title: "Wear",
-		path: "/wear/",
+		title: "Learn",
+		path: "/learn/",
 	},
   	{
-		title: "Cook",
-		path: "/cook/",
-	},
-  	{
-		title: "Bath",
-		path: "/bath/",
-	},
-  	{
-		title: "Extras",
-		path: "/extras/",
-	},
-  	{
-		title: "Swap",
-		path: "/swap/",
-	},
-  	{
-		title: "Blog",
-		path: "/posts/",
-	},
+		title: "Subscribe",
+		path: "/subscribe/",
 ];
