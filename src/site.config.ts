@@ -42,4 +42,5 @@ export const menuLinks: Array<{ title: string; path: string }> = [
   	{
 		title: "Subscribe",
 		path: "/subscribe/",
+    }    
 ];
