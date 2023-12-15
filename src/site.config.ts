@@ -32,28 +32,28 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 		path: "/",
 	},
 	{
-		title: "Food",
-		path: "/food/",
+		title: "Eat",
+		path: "/eat/",
 	},
 	{
-		title: "Clothing",
-		path: "/clothing/",
+		title: "Wear",
+		path: "/wear/",
 	},
   	{
-		title: "Kitchen",
-		path: "/kitchen/",
+		title: "Cook",
+		path: "/cook/",
 	},
   	{
-		title: "Bathroom",
-		path: "/bathroom/",
+		title: "Bath",
+		path: "/bath/",
 	},
   	{
-		title: "Supplements",
-		path: "/supplements/",
+		title: "Extras",
+		path: "/extras/",
 	},
   	{
-		title: "This for That",
-		path: "/thisforthat/",
+		title: "Swap",
+		path: "/swap/",
 	},
   	{
 		title: "Blog",
