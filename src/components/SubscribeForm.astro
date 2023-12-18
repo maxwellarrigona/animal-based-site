@@ -1,0 +1,12 @@
+---
+const handleSubmit = (event) => {
+  event.preventDefault();
+  // Here you can handle the form submission, such as sending the email to a server or API
+};
+
+---
+
+<form on:submit={handleSubmit}>
+  <input type="email" name="email" placeholder="Enter your email" required />
+  <button type="submit">Subscribe</button>
+</form>
